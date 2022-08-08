@@ -4,7 +4,7 @@
 #include "figuras.h"
 #include "lista.h"
 
-typedef struct figura{
+typedef struct figura{ 
 
     char tipo[2], id[40], ancora[2];
     double x, x1, x2, y, y1, y2, r, w, h;
