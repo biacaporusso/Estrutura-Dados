@@ -1,2 +1,3 @@
 Beatriz Barrios Caporusso
 202000560034
+Exame relacionado ao 1º semestre de Estrutura de Dados (T1 e T2). Motivação: no T2, não utilizamos o .h da árvore pedido pelo professor.
